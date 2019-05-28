@@ -1,2 +1,2 @@
-# PR-ARC-Robotics-Team-Officcial-Doc-s
-Document of Preliminary Robot Design and Considerations.
+# PR-ARC-Robotics-Team-Officcial-Docs
+Documentation of Preliminary Robot Design and Considerations.
